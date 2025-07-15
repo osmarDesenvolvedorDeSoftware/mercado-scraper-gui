@@ -19,10 +19,6 @@ Esse projeto utiliza **Tkinter** para o front-end, **Selenium** para automação
 - [ChromeDriver](https://sites.google.com/chromium.org/driver/)
 - [Webdriver Manager (opcional)](https://github.com/SergeyPirogov/webdriver_manager)
 
-## 📸 Print da Interface
-
-> ![interface](https://user-images.githubusercontent.com/0000000/xxxxx.png) ← (adicione um print do sistema rodando aqui)
-
 ##  Instalação
 
 ```bash
